@@ -2,7 +2,7 @@
 author: Sat Naingteste
 pubDatetime: 2026-07-09
 modDatetime: 2026-07-09
-title: Adding new posts in AstroPaper theme
+title: Adding new posts in AstroPaper themetestes
 slug: adding-new-posts-in-astropaper-theme
 featured: true
 draft: false
