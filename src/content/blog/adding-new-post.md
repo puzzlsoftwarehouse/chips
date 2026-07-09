@@ -1,5 +1,5 @@
 ---
-author: Sat Naingteste
+author: Sat Naing
 pubDatetime: 2026-07-09
 modDatetime: 2026-07-09
 title: Adding new posts in AstroPaper themetestes
@@ -24,9 +24,9 @@ Here is the list of frontmatter property for each post.
 
 | Property | Description | Remark |
 | ------------------ | ------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| ***title*** | Title of the post. (h1) | required\* |
-| ***description*** | Description of the post. Used in post excerpt and site description of the post. | required\* |
-| ***pubDatetime*** | Published datetime in ISO 8601 format. | required\* |
+| ***title*** | Title of the post. (h1) | required |
+| ***description*** | Description of the post. Used in post excerpt and site description of the post. | required |
+| ***pubDatetime*** | Published datetime in ISO 8601 format. | required |
 | ***modDatetime*** | Modified datetime in ISO 8601 format. (only add this property when a blog post is modified) | optional |
 | ***author*** | Author of the post. | default = SITE.author |
 | ***slug*** | Slug for the post. This field is optional but cannot be an empty string. (slug: ""❌) | default = slugified file name |
