@@ -17,6 +17,8 @@ description: Cataclisma
 
 ---
 
+![](</WhatsApp Image 2026-04-20 at 13.22.21.jpeg>)
+
 ## EXT. PLANETA TERRA — FUTURO DISTANTE
 
 A Terra ainda gira.  
