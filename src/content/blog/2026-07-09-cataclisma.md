@@ -143,7 +143,7 @@ espesso e vivo sob os ventos.
 Levado pelos Ventos Elísios,  
 o gás se espalhou pelo mundo.
 
-![](</WhatsApp Image 2026-04-20 at 13.22.21.jpeg>)
+![](<https://raw.githubusercontent.com/puzzlsoftwarehouse/chips/main/public/WhatsApp%20Image%202026-04-20%20at%2013.22.21.jpeg>)
 
 A massa tóxica se concentra sobre a África  
 e grande parte da América do Sul.
