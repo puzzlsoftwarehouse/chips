@@ -17,7 +17,7 @@ description: Cataclisma
 
 ---
 
-![](<https://raw.githubusercontent.com/puzzlsoftwarehouse/chips/main/public/WhatsApp%20Image%202026-04-20%20at%2013.22.41.jpeg>)
+![](<https://raw.githubusercontent.com/puzzlsoftwarehouse/chips/main/public/WhatsApp%20Image%202026-04-20%20at%2013.22.21.jpeg>)
 
 ## EXT. PLANETA TERRA — FUTURO DISTANTE
 
