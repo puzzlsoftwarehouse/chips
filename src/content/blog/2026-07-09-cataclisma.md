@@ -17,7 +17,7 @@ description: Cataclisma
 
 ---
 
-![](/WhatsApp Image 2026-04-20 at 13.22.21.jpeg)
+![](WhatsApp Image 2026-04-20 at 13.22.21.jpeg)
 
 ## EXT. PLANETA TERRA — FUTURO DISTANTE
 
@@ -88,7 +88,7 @@ Ninguém estava preparado para o que veio depois.
 
 ## EXT. MEGA GALERIA SUBTERRÂNEA — NOITE
 
-![](/WhatsApp Image 2026-04-20 at 13.22.41.jpeg)
+![](WhatsApp Image 2026-04-20 at 13.22.41.jpeg)
 
 Sirene.  
 Falha de contenção.  
@@ -143,7 +143,7 @@ espesso e vivo sob os ventos.
 Levado pelos Ventos Elísios,  
 o gás se espalhou pelo mundo.
 
-![](/WhatsApp Image 2026-04-20 at 13.22.21.jpeg)
+![](WhatsApp Image 2026-04-20 at 13.22.21.jpeg)
 
 A massa tóxica se concentra sobre a África  
 e grande parte da América do Sul.
