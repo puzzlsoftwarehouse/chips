@@ -135,6 +135,8 @@ a viver em escuridão permanente.
 
 ## EXT. ATMOSFERA — CONTÍNUO
 
+![](<https://raw.githubusercontent.com/puzzlsoftwarehouse/chips/main/public/WhatsApp%20Image%202026-04-20%20at%2013.22.21.jpeg>)
+
 Correntes atmosféricas arrastam a nuvem.  
 O gás agora parece mais roxo do que rosa,  
 espesso e vivo sob os ventos.
@@ -143,7 +145,7 @@ espesso e vivo sob os ventos.
 Levado pelos Ventos Elísios,  
 o gás se espalhou pelo mundo.
 
-![](<https://raw.githubusercontent.com/puzzlsoftwarehouse/chips/main/public/WhatsApp%20Image%202026-04-20%20at%2013.22.21.jpeg>)
+
 
 A massa tóxica se concentra sobre a África  
 e grande parte da América do Sul.
