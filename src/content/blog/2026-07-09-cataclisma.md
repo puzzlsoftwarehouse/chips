@@ -17,7 +17,7 @@ description: Cataclisma
 
 ---
 
-![](</public/WhatsApp Image 2026-04-20 at 13.22.21.jpeg>)
+![](<https://github.com/puzzlsoftwarehouse/chips/blob/main/public/ComfyUI_00208_.png?raw=true>)
 
 ## EXT. PLANETA TERRA — FUTURO DISTANTE
 
@@ -121,7 +121,6 @@ Tóxica para quase toda forma de vida.
 
 ## EXT. EUROPA — MONTAGEM
 
-
 Grandes cidades europeias mergulhadas em sombra permanente.  
 Janelas fechadas.  
 Arranha-céus apagados.  
@@ -135,7 +134,6 @@ a viver em escuridão permanente.
 ---
 
 ## EXT. ATMOSFERA — CONTÍNUO
-
 
 Correntes atmosféricas arrastam a nuvem.  
 O gás agora parece mais roxo do que rosa,  
@@ -161,8 +159,7 @@ em territórios de sobrevivência extrema.
 
 ## EXT. CIDADES CONTAMINADAS — DIA / NOITE
 
-![](https://raw.githubusercontent.com/puzzlsoftwarehouse/chips/main/public/ComfyUI_00194_.png)
-
+![](/public/ComfyUI_00194_.png)
 
 Galerias subterrâneas, metrôs, túneis e fundações  
 tomados pelo gás.
