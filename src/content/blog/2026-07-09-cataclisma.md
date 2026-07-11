@@ -17,7 +17,7 @@ description: Cataclisma
 
 ---
 
-![](<https://raw.githubusercontent.com/puzzlsoftwarehouse/chips/main/public/WhatsApp%20Image%202026-04-20%20at%2013.22.21.jpeg>)
+![](</public/WhatsApp Image 2026-04-20 at 13.22.21.jpeg>)
 
 ## EXT. PLANETA TERRA — FUTURO DISTANTE
 
@@ -88,7 +88,7 @@ Ninguém estava preparado para o que veio depois.
 
 ## EXT. MEGA GALERIA SUBTERRÂNEA — NOITE
 
-![](<https://raw.githubusercontent.com/puzzlsoftwarehouse/chips/main/public/WhatsApp%20Image%202026-04-20%20at%2013.22.41.jpeg>)
+![](</public/WhatsApp Image 2026-04-20 at 13.22.41.jpeg>)
 
 Sirene.  
 Falha de contenção.  
@@ -121,6 +121,8 @@ Tóxica para quase toda forma de vida.
 
 ## EXT. EUROPA — MONTAGEM
 
+![](/public/ComfyUI_00194_.png)
+
 Grandes cidades europeias mergulhadas em sombra permanente.  
 Janelas fechadas.  
 Arranha-céus apagados.  
@@ -135,7 +137,7 @@ a viver em escuridão permanente.
 
 ## EXT. ATMOSFERA — CONTÍNUO
 
-![](<https://raw.githubusercontent.com/puzzlsoftwarehouse/chips/main/public/WhatsApp%20Image%202026-04-20%20at%2013.22.21.jpeg>)
+![](</public/WhatsApp Image 2026-04-20 at 13.22.21.jpeg>)
 
 Correntes atmosféricas arrastam a nuvem.  
 O gás agora parece mais roxo do que rosa,  
