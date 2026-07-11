@@ -16,11 +16,8 @@ description: Cataclisma
 **FADE IN:**
 
 ---
-
-![](<https://github.com/puzzlsoftwarehouse/chips/blob/main/public/ComfyUI_00208_.png?raw=true>)
-
 ## EXT. PLANETA TERRA — FUTURO DISTANTE
-
+![](https://github.com/puzzlsoftwarehouse/chips/blob/main/public/ComfyUI_00226_.png?raw=true)
 A Terra ainda gira.  
 Mas não é mais o mundo que foi.
 
@@ -28,6 +25,8 @@ Cidades inteiras apodrecem sob nuvens tóxicas.
 Continentes respiram por aparelhos.  
 E a tecnologia, que um dia prometeu salvar a humanidade, tornou-se a própria causa de sua ruína.
 
+![](https://github.com/puzzlsoftwarehouse/chips/blob/main/public/ComfyUI_00208_.png?raw=true)
+  
 **NARRADOR (V.O.)**  
 Houve um tempo em que o recurso mais valioso do planeta  
 não era água, nem alimento, nem energia.  
