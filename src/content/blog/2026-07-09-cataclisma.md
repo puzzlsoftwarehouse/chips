@@ -121,7 +121,6 @@ Tóxica para quase toda forma de vida.
 
 ## EXT. EUROPA — MONTAGEM
 
-![](/public/ComfyUI_00194_.png)
 
 Grandes cidades europeias mergulhadas em sombra permanente.  
 Janelas fechadas.  
@@ -137,7 +136,6 @@ a viver em escuridão permanente.
 
 ## EXT. ATMOSFERA — CONTÍNUO
 
-![](</public/WhatsApp Image 2026-04-20 at 13.22.21.jpeg>)
 
 Correntes atmosféricas arrastam a nuvem.  
 O gás agora parece mais roxo do que rosa,  
@@ -162,6 +160,9 @@ em territórios de sobrevivência extrema.
 ---
 
 ## EXT. CIDADES CONTAMINADAS — DIA / NOITE
+
+![](https://raw.githubusercontent.com/puzzlsoftwarehouse/chips/main/public/ComfyUI_00194_.png)
+
 
 Galerias subterrâneas, metrôs, túneis e fundações  
 tomados pelo gás.
